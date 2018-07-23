@@ -124,6 +124,7 @@ public class Bienvenida extends javax.swing.JFrame {
     private void btnRegistrarseActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btnRegistrarseActionPerformed
         // TODO add your handling code here:
            this.setVisible(false);
+           /// Instancia del onjeto
            Registro_CodigoQR rc= new Registro_CodigoQR();
            rc.setVisible(true);
     }//GEN-LAST:event_btnRegistrarseActionPerformed
