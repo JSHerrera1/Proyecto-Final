@@ -1,0 +1,13 @@
+ID=1105852428
+Nombre=Victor Hugo
+Apellido=Martinez
+Placa=LBA-3850
+Tipo=Taxi
+Cooperativa=Ejecutivo
+Pregunta1=27
+Pregunta2=26
+Pregunta3=26
+Pregunta4=56
+Total=135
+NroPersonas=7
+Promedio=19
